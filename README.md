@@ -1,6 +1,26 @@
-# Logi-Verse AI Frontend
+# Logi-Verse AI — Frontend (Next.js + TailwindCSS)
 
-Built with **Next.js + TailwindCSS**, visualizing AI logistics data for SMEs.  
-Connects with Flask backend for insights.
+🚚 Interactive AI-powered logistics web app for SMEs and entrepreneurs.
 
+## 🧠 Features
+- Clean modern UI with TailwindCSS
+- Integrated with Flask backend for AI predictions
+- Live route map (using Folium / OpenStreetMap)
+- Responsive design
 
+## 🛠️ Tech Stack
+- Next.js (React)
+- TailwindCSS
+- Axios (API calls)
+- Vercel (Deployment)
+
+## 🚀 Deployment
+Deployed on **Vercel**  
+Backend API:
+
+## 👥 Team
+**NeuralVerse** — Solvio AI Hackathon 2025  
+- Abdullah Al Hasib (Team Lead)  
+- Arifa Akter Chondona  
+- Md. Samim  
+- Syed Tanjimur Rahman Tonmoy
